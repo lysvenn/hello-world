@@ -1,2 +1,4 @@
 # hello-world
-the example from git guide
+an example from git guiding, adding here too!
+
+Added new line here!
